@@ -3,7 +3,7 @@
 
 (有关示例的详细信息，请参阅上层“examples”目录中的README.md文件.)
 
-#### Pin Assignment:
+#### 引脚分配:
 
 **注意：默认情况下使用以下引脚分配，您可以在`menuconfig`中更改这些.
 
