@@ -26,6 +26,6 @@
 
 输入“idf.py-p PORT flash monitor”以构建，烧录和监控项目。
 
-(To exit the serial monitor, type ``Ctrl-]``.)
+(要退出串行监视器  ``Ctrl-]``)
 有关配置和使用ESP-IDF构建项目的完整步骤，请参阅[入门指南](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html)。
 
