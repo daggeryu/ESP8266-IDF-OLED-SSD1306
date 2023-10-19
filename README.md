@@ -19,7 +19,7 @@
 
 Open the project configuration menu (`idf.py menuconfig`). Then go into `Example Configuration` menu.
 
-- In the `I2C Master` submenu, you can set the pin number of SDA/SCL according to your board. Also you can modify the I2C port number and freauency of the master.
+- In the `I2C Master` submenu, you can set the pin number of SDA/SCL according to your board. Also you can modify the I2C port number(esp8266 is only zero) and slave address.
 
 
 ### Build and Flash
